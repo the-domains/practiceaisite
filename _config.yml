@@ -1,0 +1,28 @@
+name: PracticeAISite
+favicon: null
+layout_spectrum: 0.2478234765585512
+typography_spectrum: 0.2802474983036518
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8480332617182285
+  lightness: 0.9220627585891634
+  saturation: 0.9409481997136027
+  rhythmicContrast: 0.2797662694938481
+purpose: []
